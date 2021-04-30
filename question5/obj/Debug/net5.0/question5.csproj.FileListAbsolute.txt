@@ -1,0 +1,16 @@
+C:\workspaces-cs\FunctionsandMethods\question5\obj\Debug\net5.0\question5.csprojAssemblyReference.cache
+C:\workspaces-cs\FunctionsandMethods\question5\obj\Debug\net5.0\question5.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspaces-cs\FunctionsandMethods\question5\obj\Debug\net5.0\question5.AssemblyInfoInputs.cache
+C:\workspaces-cs\FunctionsandMethods\question5\obj\Debug\net5.0\question5.AssemblyInfo.cs
+C:\workspaces-cs\FunctionsandMethods\question5\obj\Debug\net5.0\question5.csproj.CoreCompileInputs.cache
+C:\workspaces-cs\FunctionsandMethods\question5\bin\Debug\net5.0\question5.exe
+C:\workspaces-cs\FunctionsandMethods\question5\bin\Debug\net5.0\question5.deps.json
+C:\workspaces-cs\FunctionsandMethods\question5\bin\Debug\net5.0\question5.runtimeconfig.json
+C:\workspaces-cs\FunctionsandMethods\question5\bin\Debug\net5.0\question5.runtimeconfig.dev.json
+C:\workspaces-cs\FunctionsandMethods\question5\bin\Debug\net5.0\question5.dll
+C:\workspaces-cs\FunctionsandMethods\question5\bin\Debug\net5.0\ref\question5.dll
+C:\workspaces-cs\FunctionsandMethods\question5\bin\Debug\net5.0\question5.pdb
+C:\workspaces-cs\FunctionsandMethods\question5\obj\Debug\net5.0\question5.dll
+C:\workspaces-cs\FunctionsandMethods\question5\obj\Debug\net5.0\ref\question5.dll
+C:\workspaces-cs\FunctionsandMethods\question5\obj\Debug\net5.0\question5.pdb
+C:\workspaces-cs\FunctionsandMethods\question5\obj\Debug\net5.0\question5.genruntimeconfig.cache

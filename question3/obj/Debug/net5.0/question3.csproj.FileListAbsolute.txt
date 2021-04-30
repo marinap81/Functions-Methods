@@ -1,0 +1,16 @@
+C:\workspaces-cs\FunctionsandMethods\question3\bin\Debug\net5.0\question3.exe
+C:\workspaces-cs\FunctionsandMethods\question3\bin\Debug\net5.0\question3.deps.json
+C:\workspaces-cs\FunctionsandMethods\question3\bin\Debug\net5.0\question3.runtimeconfig.json
+C:\workspaces-cs\FunctionsandMethods\question3\bin\Debug\net5.0\question3.runtimeconfig.dev.json
+C:\workspaces-cs\FunctionsandMethods\question3\bin\Debug\net5.0\question3.dll
+C:\workspaces-cs\FunctionsandMethods\question3\bin\Debug\net5.0\ref\question3.dll
+C:\workspaces-cs\FunctionsandMethods\question3\bin\Debug\net5.0\question3.pdb
+C:\workspaces-cs\FunctionsandMethods\question3\obj\Debug\net5.0\question3.csprojAssemblyReference.cache
+C:\workspaces-cs\FunctionsandMethods\question3\obj\Debug\net5.0\question3.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspaces-cs\FunctionsandMethods\question3\obj\Debug\net5.0\question3.AssemblyInfoInputs.cache
+C:\workspaces-cs\FunctionsandMethods\question3\obj\Debug\net5.0\question3.AssemblyInfo.cs
+C:\workspaces-cs\FunctionsandMethods\question3\obj\Debug\net5.0\question3.csproj.CoreCompileInputs.cache
+C:\workspaces-cs\FunctionsandMethods\question3\obj\Debug\net5.0\question3.dll
+C:\workspaces-cs\FunctionsandMethods\question3\obj\Debug\net5.0\ref\question3.dll
+C:\workspaces-cs\FunctionsandMethods\question3\obj\Debug\net5.0\question3.pdb
+C:\workspaces-cs\FunctionsandMethods\question3\obj\Debug\net5.0\question3.genruntimeconfig.cache
